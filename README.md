@@ -1,0 +1,2 @@
+# syncgp
+SyncGP desktop application
